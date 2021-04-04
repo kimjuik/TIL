@@ -21,4 +21,11 @@
   "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
+  "foam.graph.style": {
+    "node":{
+      "feature":"red",
+      "note": "#277da1",
+      "placeholder": "#545454",
+    }
+  }
 }
