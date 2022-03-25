@@ -28,7 +28,7 @@ twitter_username: kimjuik
 github_username:  kimjuik
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
